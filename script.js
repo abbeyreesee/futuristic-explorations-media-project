@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
         ["Automated, AI-Run Hospitals", "AI-operated robotic surgeons and autonomous hospital logistics replace traditional healthcare infrastructure, reducing the need for human medical professionals."],
         ["Subscription-Based Healthcare", "Amazon offers on-demand, AI-driven medical treatments as part of a Prime-like subscription, dynamically adjusting treatments based on a user’s health history."]
       ],
-      media: ["assets/5.6.mp4", "assets/5.5.mp4", "assets/5.1.mp4", "assets/5.4.mp4", "assets/5.7.mp4", "assets/5.3.mp4", "assets/5.2.mp4"],
+      media: ["assets/5.6.mp4", "assets/5.5.mp4", "assets/5.1.mp4", "assets/5.4.mp4", "assets/5.7.mp4", "assets/5.3.mp4"],
       audio: "assets/vol5.mp3"
     }
   };
