@@ -141,8 +141,8 @@ body {
 .panel {
   cursor: pointer;
   position: relative;
-  width: 32vw;
-  height: 38vh;
+  width: 35vw;
+  height: 36vh;
   overflow: hidden;
   border-radius: 0.6vw;
 }
