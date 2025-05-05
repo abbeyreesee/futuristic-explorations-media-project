@@ -44,12 +44,12 @@ body {
 }
 
 .logo-subtext-container {
-  margin-top: 22vw;
+  margin-top: 23vw;
   position: absolute;
 }
 
 .logo-subtext {
-  font-size: 1vw;
+  font-size: 1.5vw;
   color: #000;
 }
 
@@ -57,14 +57,14 @@ body {
 .subheading,
 .panel-label {
   font-weight: lighter;
-  font-size: 2vw;
+  font-size: 1.5vw;
   color: #fff;
   width: 2260px;
 }
 
 .subheading {
   font-weight: bold;
-  font-size: 2.5vw;
+  font-size: 2vw;
 }
 
 .panel-label {
@@ -83,7 +83,7 @@ body {
 
 .top-section {
   background-color: white;
-  height: 60vh;
+  height: 50vh;
   padding: 2vw;
   display: flex;
   align-items: flex-start;
@@ -141,8 +141,8 @@ body {
 .panel {
   cursor: pointer;
   position: relative;
-  width: 33vw;
-  height: 37vh;
+  width: 32vw;
+  height: 38vh;
   overflow: hidden;
   border-radius: 0.6vw;
 }
@@ -164,7 +164,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 0.6vw;
+  padding: 0 0.8vw;
   transition: height 0.3s ease;
 }
 
