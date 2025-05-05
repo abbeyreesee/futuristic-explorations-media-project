@@ -78,7 +78,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  min-height: 100vh; /* Ensuring minimum height */
+  min-height: 130vh; /* Ensuring minimum height */
 }
 
 .top-section {
@@ -128,8 +128,8 @@ body {
 
 .panels-container {
   position: absolute;
-  top: 2%;
-  bottom: 5%;
+  top: 10vh;
+  bottom: 10vh;
   right: 4vw;
   display: flex;
   flex-direction: column;
