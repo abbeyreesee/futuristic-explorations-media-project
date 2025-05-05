@@ -49,7 +49,7 @@ body {
 }
 
 .logo-subtext {
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   color: #000;
 }
 
@@ -57,7 +57,7 @@ body {
 .subheading,
 .panel-label {
   font-weight: lighter;
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   color: #fff;
   width: 2260px;
 }
