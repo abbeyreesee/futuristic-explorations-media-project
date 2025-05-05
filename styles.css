@@ -67,13 +67,11 @@ body {
   font-size: 1.2vw;
   color: #fff;
   width: 2260px;
-  left: 9vw;
 }
 
 .subheading {
   font-weight: bold;
   font-size: 2vw;
-  left: 9vw;
 }
 
 .panel-label {
@@ -109,7 +107,7 @@ body {
 
 .text-content {
   width: 30%;
-  margin-left: 9vw;
+  left: 9vw;
 }
 
 .media-container {
@@ -332,10 +330,9 @@ padding-left: 2rem;
   background-color: white;
   color: black;
   font-size: 1.5vw;
-  padding: 1vw 2vw;
+  padding: 1vw 4vw 1vw 2vw;
   border-radius: 5vw;
   margin-right: 2vw;
-  padding-right: 5vw; /* ensures space under icon */
   z-index: 1;
 }
 
@@ -350,7 +347,7 @@ padding-left: 2rem;
   align-items: center;
   justify-content: center;
   z-index: 2;
-  margin-right: 1vw;
+  margin-right: 4vw;
 }
 
 .audio-btn img {
