@@ -41,6 +41,7 @@ body {
   display: flex;
   align-items: flex-start;
   left: 9vw;
+  position: absolute;
 }
 
 .logo-subtext-container {
@@ -110,6 +111,7 @@ body {
 .text-content {
   width: 30%;
   left: 9vw;
+  position: absolute;
 }
 
 .media-container {
