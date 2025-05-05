@@ -34,14 +34,13 @@ body {
 .logo-wrapper {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
 }
 
 .logo-container {
   display: flex;
   align-items: flex-start;
-  left: 9vw;
   position: absolute;
+  left: 9vw;
 }
 
 .logo-subtext-container {
@@ -110,8 +109,7 @@ body {
 
 .text-content {
   width: 30%;
-  left: 9vw;
-  position: absolute;
+  margin-left: 9vw;
 }
 
 .media-container {
