@@ -112,8 +112,8 @@ body {
 
 .media-container {
   position: relative;
-  width: 90vw;         /* increase width */
-  height: 70vh;
+  width: 85vw;         /* increase width */
+  height: 75vh;
   overflow: hidden;
   margin-top: 1.6vw;
   flex-shrink: 0;
@@ -317,7 +317,7 @@ padding-left: 2rem;
 
 .audio-bar {
   position: absolute;
-  top: 68vh;
+  top: 72vh;
   right: 5vw;
   margin-top: 0;
   display: flex;
