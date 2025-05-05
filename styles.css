@@ -41,6 +41,7 @@ body {
 .logo-container {
   display: flex;
   align-items: flex-start;
+  left: 9vw;
 }
 
 .logo-subtext-container {
@@ -54,7 +55,6 @@ body {
   color: #000;
 }
 
-.description,
 .subheading,
 .panel-label {
   font-weight: lighter;
@@ -63,9 +63,18 @@ body {
   width: 2260px;
 }
 
+.description {
+  font-weight: lighter;
+  font-size: 1.2vw;
+  color: #fff;
+  width: 2260px;
+  left: 9vw;
+}
+
 .subheading {
   font-weight: bold;
   font-size: 2vw;
+  left: 9vw;
 }
 
 .panel-label {
