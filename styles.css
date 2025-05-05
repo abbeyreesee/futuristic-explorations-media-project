@@ -335,7 +335,7 @@ padding-left: 2rem;
   padding: 1vw 2vw;
   border-radius: 5vw;
   margin-right: 2vw;
-  padding-right: 3vw; /* ensures space under icon */
+  padding-right: 5vw; /* ensures space under icon */
   z-index: 1;
 }
 
@@ -350,7 +350,7 @@ padding-left: 2rem;
   align-items: center;
   justify-content: center;
   z-index: 2;
-  transform: translateX(-0.8vw);
+  margin-right: 1vw;
 }
 
 .audio-btn img {
