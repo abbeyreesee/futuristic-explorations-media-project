@@ -14,7 +14,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 4vw 10vw;
-  font-size: 2vw;
+  font-size: 1.2vw;
   font-weight: lighter;
   border-bottom: 1px solid #fc9c04;
 }
@@ -44,12 +44,12 @@ body {
 }
 
 .logo-subtext-container {
-  margin-top: 13vw;
+  margin-top: 18vw;
   position: absolute;
 }
 
 .logo-subtext {
-  font-size: 2vw;
+  font-size: 1vw;
   color: #000;
 }
 
@@ -83,7 +83,7 @@ body {
 
 .top-section {
   background-color: white;
-  height: 120vh; /* Fixed height */
+  height: 80vh;
   padding: 2vw;
   display: flex;
   align-items: flex-start;
@@ -106,7 +106,7 @@ body {
 .media-container {
   position: relative;
   width: 90vw;         /* increase width */
-  height: 60vh;         /* increase height */
+  height: 70vh;
   overflow: hidden;
   margin-top: 1.6vw;
   flex-shrink: 0;
@@ -141,7 +141,7 @@ body {
 .panel {
   cursor: pointer;
   position: relative;
-  width: 30vw;
+  width: 33vw;
   height: 35vh;
   overflow: hidden;
   border-radius: 0.6vw;
@@ -309,9 +309,10 @@ padding-left: 2rem;
 }
 
 .audio-bar {
-  position: absolute;
-  top: 230vh; /* 40rem = margin-top of media-container, 1056px = half of its height (2112px / 2) */
-  right: 8vw;
+  position: relative;
+  top: auto;
+  margin-top: 4vw;
+  right: auto;
   display: flex;
   align-items: center;
   z-index: 10;
@@ -320,7 +321,7 @@ padding-left: 2rem;
 .audio-label {
   background-color: white;
   color: black;
-  font-size: 1vw;
+  font-size: 1.5vw;
   padding: 2vw 4vw;
   border-radius: 5vw;
   margin-right: -1.5vw;
@@ -329,8 +330,8 @@ padding-left: 2rem;
 }
 
 .audio-btn {
-  width: 3vw;
-  height: 3vw;
+  width: 4vw;
+  height: 4vw;
   background: white;
   border: none;
   border-radius: 50%;
