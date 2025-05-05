@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 4vw 10vw;
+  padding: 2vw 10vw;
   font-size: 1.2vw;
   font-weight: lighter;
   border-bottom: 1px solid #fc9c04;
@@ -44,7 +44,7 @@ body {
 }
 
 .logo-subtext-container {
-  margin-top: 18vw;
+  margin-top: 22vw;
   position: absolute;
 }
 
@@ -83,7 +83,7 @@ body {
 
 .top-section {
   background-color: white;
-  height: 80vh;
+  height: 60vh;
   padding: 2vw;
   display: flex;
   align-items: flex-start;
@@ -142,7 +142,7 @@ body {
   cursor: pointer;
   position: relative;
   width: 33vw;
-  height: 35vh;
+  height: 37vh;
   overflow: hidden;
   border-radius: 0.6vw;
 }
@@ -311,11 +311,12 @@ padding-left: 2rem;
 .audio-bar {
   position: relative;
   top: auto;
-  margin-top: 4vw;
+  margin-top: 2vw;
   right: auto;
   display: flex;
   align-items: center;
   z-index: 10;
+  justify-content: flex-end;
 }
 
 .audio-label {
@@ -324,14 +325,14 @@ padding-left: 2rem;
   font-size: 1.5vw;
   padding: 2vw 4vw;
   border-radius: 5vw;
-  margin-right: -1.5vw;
+  margin-right: 2vw;
   padding-right: 3vw; /* ensures space under icon */
   z-index: 1;
 }
 
 .audio-btn {
-  width: 4vw;
-  height: 4vw;
+  width: 6vw;
+  height: 6vw;
   background: white;
   border: none;
   border-radius: 50%;
