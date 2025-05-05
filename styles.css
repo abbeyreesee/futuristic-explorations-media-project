@@ -79,7 +79,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  min-height: 270vh; /* Ensuring minimum height */
+  min-height: 250vh; /* Ensuring minimum height */
 }
 
 .top-section {
@@ -100,8 +100,8 @@ body {
 }
 
 .text-content {
-  padding-left: 9vw;
   width: 30%;
+  left: 9vw;
 }
 
 .media-container {
