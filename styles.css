@@ -78,7 +78,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  min-height: 130vh; /* Ensuring minimum height */
+  min-height: 150vh; /* Ensuring minimum height */
 }
 
 .top-section {
@@ -142,7 +142,7 @@ body {
   cursor: pointer;
   position: relative;
   width: 35vw;
-  height: 36vh;
+  height: 30vh;
   overflow: hidden;
   border-radius: 0.6vw;
 }
