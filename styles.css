@@ -59,14 +59,12 @@ body {
   font-weight: lighter;
   font-size: 1.2vw;
   color: #fff;
-  width: 2260px;
 }
 
 .description {
   font-weight: lighter;
   font-size: 1.2vw;
   color: #fff;
-  width: 2260px;
 }
 
 .subheading {
@@ -106,8 +104,8 @@ body {
 }
 
 .text-content {
-  width: 30%;
-  left: 9vw;
+  margin-left: 9vw;
+  max-width: 35vw;
 }
 
 .media-container {
@@ -330,7 +328,7 @@ padding-left: 2rem;
   background-color: white;
   color: black;
   font-size: 1.5vw;
-  padding: 1vw 4vw 1vw 2vw;
+  padding: 1vw 8vw 1vw 2vw;
   border-radius: 5vw;
   margin-right: 2vw;
   z-index: 1;
@@ -347,7 +345,7 @@ padding-left: 2rem;
   align-items: center;
   justify-content: center;
   z-index: 2;
-  margin-right: 4vw;
+  margin-right: 7vw;
 }
 
 .audio-btn img {
