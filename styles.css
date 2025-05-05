@@ -236,17 +236,17 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 90vw;
+  width: 85vw;
 }
 
 .close-btn {
   background: none;
   border: none;
   color: white;
-  font-size: 1.75vw;
+  font-size: 1.5vw;
   position: absolute;
-  top: 0vw;
-  right: 0vw;
+  top: 1vw;
+  right: 1vw;
   z-index: 5;
 }
 
@@ -311,8 +311,7 @@ padding-left: 2rem;
 
 .audio-bar {
   position: relative;
-  top: auto;
-  margin-top: 0.5vw;
+  margin-top: -2vh;
   right: auto;
   display: flex;
   align-items: center;
