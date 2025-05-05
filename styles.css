@@ -41,7 +41,7 @@ body {
 .logo-container {
   display: flex;
   align-items: flex-start;
-  margin-left: 8.5vw;
+  left: 8.5vw;
 }
 
 .logo-subtext-container {
@@ -112,7 +112,6 @@ body {
   width: 30%;
   left: 9vw;
   padding-left: 9vw;
-  margin-left: 9vw;
 }
 
 .media-container {
