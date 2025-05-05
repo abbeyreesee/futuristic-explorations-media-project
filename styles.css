@@ -44,7 +44,7 @@ body {
 }
 
 .logo-subtext-container {
-  margin-top: 23vw;
+  margin-top: 24vw;
   position: absolute;
 }
 
@@ -83,7 +83,7 @@ body {
 
 .top-section {
   background-color: white;
-  height: 50vh;
+  height: 49vh;
   padding: 2vw;
   display: flex;
   align-items: flex-start;
