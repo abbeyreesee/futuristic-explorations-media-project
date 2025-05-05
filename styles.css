@@ -352,6 +352,7 @@ padding-left: 2rem;
   align-items: center;
   justify-content: center;
   z-index: 2;
+  transform: translateX(-0.8vw);
 }
 
 .audio-btn img {
